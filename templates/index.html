@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Document-Based Q&A</title>
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+    }
+
+    input[type="text"] {
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      width: 300px;
+      margin-bottom: 10px;
+    }
+
+    button {
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    p {
+      text-align: center;
+      width: 500px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <form method="POST">
+    <label for="doc_url">Document URL:</label>
+    <input type="text" id="doc_url" name="doc_url" value="{{ url }}">
+    <br>
+    <label for="question">Question:</label>
+    <input type="text" id="question" name="question">
+    <br>
+    <input type="submit" value="Submit">
+    <br>
+    <p>Answer: {{ answer }}</p>
+  </form>
+</body>
+</html>

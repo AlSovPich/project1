@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "llm-examiner-innopolis",
+  "private_key_id": "041977e7e5bdcac5516a42fb1ab71a582a370cd4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDpbRVbXl+fcNbU\nX0RiMv47nHYJs0HUYp3F7CoBLRKt8AIdhvCGpfeAlPrf9fWStWVtwY1GfcngnCgE\nLUBbAqy6iiwexT6xOAUvQs2cPS0jTiAytzZbKTffR8+46BN7jzwtooJSN8IP/H20\nCiXmo52/9bM/4qXJ4wEIxfMqSj52fdiEYeqXFUo28tNHKDvsMhiTiWSW/yjV2FQA\nshYr4MQ84RaLckTIZdgD56XwqF1a2BrOphn29UUebuQCXCJ2PxQt1/kVncCqbL2Q\nojXeDkIj0sQSVfDl0/rgqZj8mk81vLT/WqUm4pBGJ5Ltz3EOTC7wC7lUzv1fWfKC\nYdSLm857AgMBAAECggEAYSi453+IILbYjKwcrB0aihhtX0tAPtVPY3cR4sxuhnys\nfLrSedEyDFC2fasEbOzZC46xLaKk+Ts2QsrNCzS5Tam+hI5IMn6lVc8iAwLJu3TE\n3Sc6VkZ5TZQ353idx2POwhXu1acEvR+0+M/yh6YZvrFXy2Mc68PzhcHTHYqqpime\n6Rez1HUkVw4S8qdk//hO+AA4nuHlbAPCMcIT2NAV9WzGjRfwpcSD+LUMk8AN2k9S\nHvqPA4gV/51RYJXvr0oBxZLOE4nkEfkTXUyDfVBG7NHr4GlSDG0D4oToSzhvoK4l\nwF4hoQBqo3l6hDVBH/sOGhHRqaltLHOGHTteVszyHQKBgQD9UB4fQN8ZJPbNLWBQ\nbF9q2urFbNfyh19CSxhLAnXZSIzhf00C1Uhr1MOSOWCSNFUl+nnRS5aZD6LhXhbY\n+X+q1Lqze36pj1PoTWdwzC7GOE0BIui7WG2JZhZdTrts8+WDohrCnamo09xRr1Zb\nuemfhmTlZDHM53VodvH5+khkDwKBgQDr5vZPdlEjEjcXSpLITHP5Qp/OyUeXU4GQ\npq5mwF29OQb8UEdFJw/y2irKAX96Ac+mC9nBS2fka5lbSRwP89BkfHAD5FheXqRR\nr5YTSb3/Tfu60HvD5GVDOK2H30iUiDy4vPXW/drLDw8rZkG9HboYVE6U4TVOocBR\nheXVJrCS1QKBgQCtyWOBCZ6Fv6hax4DGbDNiOeLLo4rb5yfhcWevPnbfpTiSFCYf\nhXf0ErpB/X9VjvXD4n3kqzkctW+Hsmd2YGXIK74TGOyjI6PrQf9vkYWdlE6wMuT8\ncwRjOViqlzNa4lFZ58L4NfaJzx/eIq7aq0eunCNohT7tVvZjvwbv+1fi3QKBgCd/\nY0xItisWGK1IqizpSB26/wDjiJ4YuD/c+KRxnwBYtQe39Ubp1GzIBJQQDiUCep8F\nqu8HThzbuzCinBU7sG+yuhqcuAMM+5xFtu4B0dMWXoiX8bEJ476OldeDFibwbKJN\n2SenF2QaYGLW2zjr6kW6j/Gzh3Zj9Mxxi9rVgIkFAoGBAOXlYhlH2hTDUqNgy8LV\nYnUp+uM2A2NGNyk69X+kGKGCC9SkPOkhlErihgD+r92Aa2CzP4UxSe5ui6joLTUx\nlnuomYXAizlTnqvuSJqxaJgddQieMihkE+wbELe38iwtuu3sWC6t0yxopyT2GUx4\noXgF72PpTg55FG9/XbYodEOh\n-----END PRIVATE KEY-----\n",
+  "client_email": "atlllm-project@llm-examiner-innopolis.iam.gserviceaccount.com",
+  "client_id": "105080047535300694966",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/atlllm-project%40llm-examiner-innopolis.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
